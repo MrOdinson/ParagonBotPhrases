@@ -1,0 +1,2 @@
+﻿You did a terrible job, your boss is furious! You pay ${money} in damages.
+You left the customer unsatisfied, your pay ${money} in replacements.
