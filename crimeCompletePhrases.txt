@@ -1,0 +1,2 @@
+You did a great job robbing the city bank, after splitting with your crew, you got ${money} out of it!
+You punch an old lady, and run away with her bag. After selling it, you get ${money} out of it.

@@ -1,0 +1,2 @@
+You tried to rob an old lady, turns out she knew karate. Bad luck, kid. She calls the police and they fine you ${money}.
+The bank gets swatted while your crew is still inside, after a short chase, they catch you and you get a fine of ${money}.
