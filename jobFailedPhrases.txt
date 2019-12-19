@@ -1,2 +1,2 @@
-You accidentally tilts an entire row of items on your day job, you are forced to pay ${money} in replacements.
-You decide to try out some of the sex toys you were supposed to be packing, and now you have to pay for them. ${money}.
+You accidentally tilt over an entire row of items on your day job, you are forced to pay ${money} in replacements.
+You decide to try out some of the sex toys you were supposed to be packing, and now you have to pay for them. You pay ${money}.

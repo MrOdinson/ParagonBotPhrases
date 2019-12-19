@@ -1,2 +1,2 @@
-Just a regular boring day in Walmart, you get paid ${money}.
-You day job of packing sex toys, pays you ${money}.
+Just a regular boring day at Walmart, you get paid ${money}.
+Your day job of packing sex toys, pays you ${money}, for a day of work.
