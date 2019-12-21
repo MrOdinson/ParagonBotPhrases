@@ -1,2 +1,2 @@
-${user1} is attacking ${user2} with a club dealing ${damage} damage.
-${user1} fires a Rifle at ${user2} dealing ${damage} damage.
+{user1} is attacking {user2} with a club dealing {damage} damage.
+{user1} fires a Rifle at {user2} dealing {damage} damage.
